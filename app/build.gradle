@@ -21,6 +21,4 @@ android {
 
 dependencies {
     testImplementation junit5.unitTests()
-    testImplementation junit5.parameterized()
-    testCompileOnly junit5.unitTestsRuntime()
 }
